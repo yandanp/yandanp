@@ -67,9 +67,8 @@ Organize terminals by project with persistent sessions, SSH manager, task runner
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yandanp&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandanp&layout=compact&hide_border=true&theme=github_dark" />
+<img height="165" src="./assets/stats.svg" />
+<img height="165" src="./assets/top-langs.svg" />
 
 </div>
 
