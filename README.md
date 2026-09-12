@@ -66,10 +66,8 @@ Organize terminals by project with persistent sessions, SSH manager, task runner
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="./assets/stats.svg" />
-<img height="165" src="./assets/top-langs.svg" />
-
+  <img height="165" src="./assets/stats.svg" alt="Yanda's GitHub Stats" />
+  <img height="165" src="./assets/top-langs.svg" alt="Yanda's Top Languages" />
 </div>
 
 ---
