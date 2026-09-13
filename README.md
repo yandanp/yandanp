@@ -23,6 +23,9 @@
 **[>_ Connexio](https://github.com/yandanp/connexio)** — Project-based Terminal Manager with persistent sessions, SSH manager, task runner, and workspaces.
 
 ### 📊 GitHub Stats
+<p align="center">
+<a href="https://gitfut.com/yandanp"><img src="https://gitfut.com/yandanp.png" width="240" alt="GitFut card"></a>
+</p>
 
 <p align="center">
   <img height="160" src="./assets/stats.svg" alt="GitHub Stats" />
